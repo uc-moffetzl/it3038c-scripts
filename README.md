@@ -1,7 +1,7 @@
-My App
+IT3038C-Scripts Repository
 ======
 
-# This is my app
+## Directories 
 
-```javascript
-Javascript code block to highlight whats up in my code
+1. Powershell -  Holds all files that are Powershell Scripts
+2. bash - Holds all files that are bash scripts
